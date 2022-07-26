@@ -16,6 +16,8 @@ body {
           flex-direction: column;
   padding: 1em;
   background-color: #e3d3b1;
+  border-collapse: separate;
+  border-radius: 10px;
 }
 
 .food {
